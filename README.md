@@ -4,7 +4,7 @@ Mini-projet étudiant Snake
 
 ## Prérequis
 
-Python
+Python3
 
 ## Compilation
 
